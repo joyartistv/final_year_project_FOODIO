@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# final_year_project_FOODIO
+FOODIO is a cross-platform recipe and food discovery app built with React Native and Supabase, allowing users to explore, create, and share recipes with image uploads and real-time database support.
+>>>>>>> 2344a5de47a848fa885c872744cc9b2f49399a3c
